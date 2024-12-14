@@ -1,0 +1,4 @@
+C:\Users\pilk\Desktop\NOTPADE\obj\Debug\net6.0-windows\NotesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pilk\Desktop\NOTPADE\obj\Debug\net6.0-windows\NotesApp.AssemblyInfoInputs.cache
+C:\Users\pilk\Desktop\NOTPADE\obj\Debug\net6.0-windows\NotesApp.AssemblyInfo.cs
+C:\Users\pilk\Desktop\NOTPADE\obj\Debug\net6.0-windows\NotesApp.csproj.CoreCompileInputs.cache
